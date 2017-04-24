@@ -1,3 +1,4 @@
 # 3scale-gateway-on-openshift-workshop {#3scale-gateway-on-openshift-workshop}
 
-This file serves as your book&#039;s preface, a great place to describe your book&#039;s content and ideas.
+This workshop takes you through the steps to get the 3scale configured Nginx Gateway running on Openshift. Complete 3scale-basic-config-workshop before proceeding with this one.
+
